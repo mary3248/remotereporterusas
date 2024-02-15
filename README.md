@@ -10,13 +10,7 @@ Di cómo será ese paso
 
 Algunas webs permitidas para realizar la acción:
 
-http://remotereporterusa.com
-
-http://seattletopnews.com
-
-http://locallosangelesnews.com
-
-http://saydallas.com
+http://remotereporterusa.com http://seattletopnews.com http://locallosangelesnews.com http://saydallas.com http://confidentialverse.com http://dailyenquire.com http://BasicTechCapital.com
 
 Da un ejemplo Y repite
 
